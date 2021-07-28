@@ -9,8 +9,6 @@ This App is a perfect app for kids. Nursery Rhyme works as an offline app and do
 - Audio focus
 ## Installation
 
-Install my-project with npm
-
 - Download the apk file from given link:-
 - [Download](https://drive.google.com/drive/u/0/folders/1VSwDS6Y3RPcRULcHUyUdsIaFp_wzPbic)
 - Give permission from setting to Install the app.
